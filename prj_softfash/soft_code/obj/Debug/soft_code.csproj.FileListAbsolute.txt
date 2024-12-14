@@ -1,0 +1,169 @@
+C:\Users\maryd\OneDrive\Área de Trabalho\SOFTFASH\soft_code\bin\Debug\soft_code.exe.config
+C:\Users\maryd\OneDrive\Área de Trabalho\SOFTFASH\soft_code\bin\Debug\soft_code.exe
+C:\Users\maryd\OneDrive\Área de Trabalho\SOFTFASH\soft_code\bin\Debug\soft_code.pdb
+C:\Users\maryd\OneDrive\Área de Trabalho\SOFTFASH\soft_code\obj\Debug\soft_code.csprojAssemblyReference.cache
+C:\Users\maryd\OneDrive\Área de Trabalho\SOFTFASH\soft_code\obj\Debug\soft_code.Properties.Resources.resources
+C:\Users\maryd\OneDrive\Área de Trabalho\SOFTFASH\soft_code\obj\Debug\soft_code.csproj.GenerateResource.cache
+C:\Users\maryd\OneDrive\Área de Trabalho\SOFTFASH\soft_code\obj\Debug\soft_code.csproj.CoreCompileInputs.cache
+C:\Users\maryd\OneDrive\Área de Trabalho\SOFTFASH\soft_code\obj\Debug\soft_code.exe
+C:\Users\maryd\OneDrive\Área de Trabalho\SOFTFASH\soft_code\obj\Debug\soft_code.pdb
+C:\Users\maryd\OneDrive\Área de Trabalho\SOFTFASH\soft_code\obj\Debug\soft_code.form_cidades.resources
+C:\Users\maryd\OneDrive\Área de Trabalho\SOFTFASH\soft_code\obj\Debug\soft_code.form_clientes.resources
+C:\Users\maryd\OneDrive\Área de Trabalho\SOFTFASH\soft_code\obj\Debug\soft_code.Menu.resources
+C:\Users\maryd\OneDrive\Área de Trabalho\SOFTFASH\soft_code\bin\Debug\MySql.Data.dll
+C:\Users\maryd\OneDrive\Área de Trabalho\SOFTFASH\soft_code\obj\Debug\soft_code.csproj.CopyComplete
+C:\Users\maryd\OneDrive\Área de Trabalho\SOFTFASH\soft_code\obj\Debug\soft_code.Telalogin.resources
+C:\Users\maryd\OneDrive\Área de Trabalho\SOFTFASH\soft_code\obj\Debug\soft_code.form_estoque.resources
+C:\Users\maryd\OneDrive\Área de Trabalho\SOFTFASH\soft_code\obj\Debug\soft_code.form_fornecedores.resources
+C:\Users\maryd\OneDrive\Área de Trabalho\SOFTFASH\soft_code\obj\Debug\soft_code.Form_funcionarios.resources
+C:\Users\maryd\OneDrive\Área de Trabalho\SOFTFASH\soft_code\obj\Debug\soft_code.form_produtos.resources
+C:\Users\maryd\OneDrive\Área de Trabalho\SOFTFASH\soft_code\obj\Debug\soft_code.form_promissorias.resources
+C:\Users\maryd\OneDrive\Área de Trabalho\SOFTFASH\soft_code\obj\Debug\soft_code.form_usuarios.resources
+C:\Users\maryd\OneDrive\Área de Trabalho\SOFTFASH\soft_code\obj\Debug\soft_code.form_vendas.resources
+D:\Tudo\ETEC\TCC\soft_code\bin\Debug\soft_code.exe.config
+D:\Tudo\ETEC\TCC\soft_code\bin\Debug\soft_code.exe
+D:\Tudo\ETEC\TCC\soft_code\bin\Debug\soft_code.pdb
+D:\Tudo\ETEC\TCC\soft_code\obj\Debug\soft_code.csprojAssemblyReference.cache
+D:\Tudo\ETEC\TCC\soft_code\obj\Debug\soft_code.Telalogin.resources
+D:\Tudo\ETEC\TCC\soft_code\obj\Debug\soft_code.form_cidades.resources
+D:\Tudo\ETEC\TCC\soft_code\obj\Debug\soft_code.form_clientes.resources
+D:\Tudo\ETEC\TCC\soft_code\obj\Debug\soft_code.form_estoque.resources
+D:\Tudo\ETEC\TCC\soft_code\obj\Debug\soft_code.form_fornecedores.resources
+D:\Tudo\ETEC\TCC\soft_code\obj\Debug\soft_code.Form_funcionarios.resources
+D:\Tudo\ETEC\TCC\soft_code\obj\Debug\soft_code.form_produtos.resources
+D:\Tudo\ETEC\TCC\soft_code\obj\Debug\soft_code.form_promissorias.resources
+D:\Tudo\ETEC\TCC\soft_code\obj\Debug\soft_code.form_usuarios.resources
+D:\Tudo\ETEC\TCC\soft_code\obj\Debug\soft_code.form_vendas.resources
+D:\Tudo\ETEC\TCC\soft_code\obj\Debug\soft_code.Menu.resources
+D:\Tudo\ETEC\TCC\soft_code\obj\Debug\soft_code.Properties.Resources.resources
+D:\Tudo\ETEC\TCC\soft_code\obj\Debug\soft_code.csproj.GenerateResource.cache
+D:\Tudo\ETEC\TCC\soft_code\obj\Debug\soft_code.csproj.CoreCompileInputs.cache
+D:\Tudo\ETEC\TCC\soft_code\obj\Debug\soft_code.csproj.CopyComplete
+D:\Tudo\ETEC\TCC\soft_code\obj\Debug\soft_code.exe
+D:\Tudo\ETEC\TCC\soft_code\obj\Debug\soft_code.pdb
+C:\Users\maryd\OneDrive\Área de Trabalho\SOFTFASH\soft_code\bin\Debug\EntityFramework.dll
+C:\Users\maryd\OneDrive\Área de Trabalho\SOFTFASH\soft_code\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maryd\OneDrive\Área de Trabalho\SOFTFASH\soft_code\bin\Debug\System.Data.SQLite.dll
+C:\Users\maryd\OneDrive\Área de Trabalho\SOFTFASH\soft_code\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\maryd\OneDrive\Área de Trabalho\SOFTFASH\soft_code\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\maryd\OneDrive\Área de Trabalho\SOFTFASH\soft_code\bin\Debug\EntityFramework.xml
+C:\Users\maryd\OneDrive\Área de Trabalho\SOFTFASH\soft_code\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maryd\OneDrive\Área de Trabalho\SOFTFASH\soft_code\bin\Debug\System.Data.SQLite.xml
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code\bin\Debug\soft_code.exe.config
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code\bin\Debug\soft_code.exe
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code\bin\Debug\soft_code.pdb
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code\bin\Debug\EntityFramework.dll
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code\bin\Debug\MySql.Data.dll
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code\bin\Debug\System.Data.SQLite.dll
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code\bin\Debug\EntityFramework.xml
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code\bin\Debug\System.Data.SQLite.xml
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code\obj\Debug\soft_code.csprojAssemblyReference.cache
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code\obj\Debug\soft_code.Telalogin.resources
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code\obj\Debug\soft_code.form_cidades.resources
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code\obj\Debug\soft_code.form_clientes.resources
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code\obj\Debug\soft_code.form_estoque.resources
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code\obj\Debug\soft_code.form_fornecedores.resources
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code\obj\Debug\soft_code.Form_funcionarios.resources
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code\obj\Debug\soft_code.form_produtos.resources
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code\obj\Debug\soft_code.form_promissorias.resources
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code\obj\Debug\soft_code.form_usuarios.resources
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code\obj\Debug\soft_code.form_vendas.resources
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code\obj\Debug\soft_code.Menu.resources
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code\obj\Debug\soft_code.Properties.Resources.resources
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code\obj\Debug\soft_code.csproj.GenerateResource.cache
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code\obj\Debug\soft_code.csproj.CoreCompileInputs.cache
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code\obj\Debug\soft_code.csproj.CopyComplete
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code\obj\Debug\soft_code.exe
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code\obj\Debug\soft_code.pdb
+C:\Users\maryd\Downloads\soft_code(1)\soft_code\bin\Debug\soft_code.exe.config
+C:\Users\maryd\Downloads\soft_code(1)\soft_code\bin\Debug\soft_code.exe
+C:\Users\maryd\Downloads\soft_code(1)\soft_code\bin\Debug\soft_code.pdb
+C:\Users\maryd\Downloads\soft_code(1)\soft_code\bin\Debug\EntityFramework.dll
+C:\Users\maryd\Downloads\soft_code(1)\soft_code\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maryd\Downloads\soft_code(1)\soft_code\bin\Debug\MySql.Data.dll
+C:\Users\maryd\Downloads\soft_code(1)\soft_code\bin\Debug\System.Data.SQLite.dll
+C:\Users\maryd\Downloads\soft_code(1)\soft_code\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\maryd\Downloads\soft_code(1)\soft_code\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\maryd\Downloads\soft_code(1)\soft_code\bin\Debug\EntityFramework.xml
+C:\Users\maryd\Downloads\soft_code(1)\soft_code\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maryd\Downloads\soft_code(1)\soft_code\bin\Debug\System.Data.SQLite.xml
+C:\Users\maryd\Downloads\soft_code(1)\soft_code\obj\Debug\soft_code.csproj.AssemblyReference.cache
+C:\Users\maryd\Downloads\soft_code(1)\soft_code\obj\Debug\soft_code.Telalogin.resources
+C:\Users\maryd\Downloads\soft_code(1)\soft_code\obj\Debug\soft_code.form_cidades.resources
+C:\Users\maryd\Downloads\soft_code(1)\soft_code\obj\Debug\soft_code.form_clientes.resources
+C:\Users\maryd\Downloads\soft_code(1)\soft_code\obj\Debug\soft_code.form_estoque.resources
+C:\Users\maryd\Downloads\soft_code(1)\soft_code\obj\Debug\soft_code.form_fornecedores.resources
+C:\Users\maryd\Downloads\soft_code(1)\soft_code\obj\Debug\soft_code.Form_funcionarios.resources
+C:\Users\maryd\Downloads\soft_code(1)\soft_code\obj\Debug\soft_code.form_produtos.resources
+C:\Users\maryd\Downloads\soft_code(1)\soft_code\obj\Debug\soft_code.form_promissorias.resources
+C:\Users\maryd\Downloads\soft_code(1)\soft_code\obj\Debug\soft_code.form_usuarios.resources
+C:\Users\maryd\Downloads\soft_code(1)\soft_code\obj\Debug\soft_code.form_vendas.resources
+C:\Users\maryd\Downloads\soft_code(1)\soft_code\obj\Debug\soft_code.Menu.resources
+C:\Users\maryd\Downloads\soft_code(1)\soft_code\obj\Debug\soft_code.Properties.Resources.resources
+C:\Users\maryd\Downloads\soft_code(1)\soft_code\obj\Debug\soft_code.csproj.GenerateResource.cache
+C:\Users\maryd\Downloads\soft_code(1)\soft_code\obj\Debug\soft_code.csproj.CoreCompileInputs.cache
+C:\Users\maryd\Downloads\soft_code(1)\soft_code\obj\Debug\soft_code.exe
+C:\Users\maryd\Downloads\soft_code(1)\soft_code\obj\Debug\soft_code.pdb
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(1)\soft_code\bin\Debug\soft_code.exe.config
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(1)\soft_code\bin\Debug\soft_code.exe
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(1)\soft_code\bin\Debug\soft_code.pdb
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(1)\soft_code\bin\Debug\EntityFramework.dll
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(1)\soft_code\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(1)\soft_code\bin\Debug\MySql.Data.dll
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(1)\soft_code\bin\Debug\System.Data.SQLite.dll
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(1)\soft_code\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(1)\soft_code\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(1)\soft_code\bin\Debug\EntityFramework.xml
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(1)\soft_code\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(1)\soft_code\bin\Debug\System.Data.SQLite.xml
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(1)\soft_code\obj\Debug\soft_code.csproj.AssemblyReference.cache
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(1)\soft_code\obj\Debug\soft_code.Telalogin.resources
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(1)\soft_code\obj\Debug\soft_code.form_cidades.resources
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(1)\soft_code\obj\Debug\soft_code.form_clientes.resources
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(1)\soft_code\obj\Debug\soft_code.form_estoque.resources
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(1)\soft_code\obj\Debug\soft_code.form_fornecedores.resources
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(1)\soft_code\obj\Debug\soft_code.Form_funcionarios.resources
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(1)\soft_code\obj\Debug\soft_code.form_produtos.resources
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(1)\soft_code\obj\Debug\soft_code.form_promissorias.resources
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(1)\soft_code\obj\Debug\soft_code.form_usuarios.resources
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(1)\soft_code\obj\Debug\soft_code.form_vendas.resources
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(1)\soft_code\obj\Debug\soft_code.Menu.resources
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(1)\soft_code\obj\Debug\soft_code.Properties.Resources.resources
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(1)\soft_code\obj\Debug\soft_code.csproj.GenerateResource.cache
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(1)\soft_code\obj\Debug\soft_code.csproj.CoreCompileInputs.cache
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(1)\soft_code\obj\Debug\soft_code.exe
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(1)\soft_code\obj\Debug\soft_code.pdb
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(2)\soft_code\bin\Debug\soft_code.exe.config
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(2)\soft_code\bin\Debug\soft_code.exe
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(2)\soft_code\bin\Debug\soft_code.pdb
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(2)\soft_code\bin\Debug\EntityFramework.dll
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(2)\soft_code\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(2)\soft_code\bin\Debug\MySql.Data.dll
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(2)\soft_code\bin\Debug\System.Data.SQLite.dll
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(2)\soft_code\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(2)\soft_code\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(2)\soft_code\bin\Debug\EntityFramework.xml
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(2)\soft_code\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(2)\soft_code\bin\Debug\System.Data.SQLite.xml
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(2)\soft_code\obj\Debug\soft_code.Telalogin.resources
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(2)\soft_code\obj\Debug\soft_code.form_cidades.resources
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(2)\soft_code\obj\Debug\soft_code.form_clientes.resources
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(2)\soft_code\obj\Debug\soft_code.form_estoque.resources
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(2)\soft_code\obj\Debug\soft_code.form_fornecedores.resources
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(2)\soft_code\obj\Debug\soft_code.Form_funcionarios.resources
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(2)\soft_code\obj\Debug\soft_code.form_produtos.resources
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(2)\soft_code\obj\Debug\soft_code.form_promissorias.resources
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(2)\soft_code\obj\Debug\soft_code.form_usuarios.resources
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(2)\soft_code\obj\Debug\soft_code.form_vendas.resources
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(2)\soft_code\obj\Debug\soft_code.Menu.resources
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(2)\soft_code\obj\Debug\soft_code.Properties.Resources.resources
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(2)\soft_code\obj\Debug\soft_code.csproj.GenerateResource.cache
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(2)\soft_code\obj\Debug\soft_code.csproj.CoreCompileInputs.cache
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(2)\soft_code\obj\Debug\soft_code.exe
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(2)\soft_code\obj\Debug\soft_code.pdb
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(2)\soft_code\obj\Debug\soft_code.f_devolverprod.resources
+C:\Users\maryd\OneDrive\Área de Trabalho\soft_code(2)\soft_code\obj\Debug\soft_code.csproj.AssemblyReference.cache

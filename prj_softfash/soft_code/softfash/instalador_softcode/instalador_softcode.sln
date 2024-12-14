@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "instalador_softcode", "instalador_softcode.vdproj", "{A06D9DF9-6E9C-4E00-ACA6-0A6AAB7DCC52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A06D9DF9-6E9C-4E00-ACA6-0A6AAB7DCC52}.Debug|Any CPU.ActiveCfg = Debug
+		{A06D9DF9-6E9C-4E00-ACA6-0A6AAB7DCC52}.Debug|Any CPU.Build.0 = Debug
+		{A06D9DF9-6E9C-4E00-ACA6-0A6AAB7DCC52}.Debug|Default.ActiveCfg = Debug
+		{A06D9DF9-6E9C-4E00-ACA6-0A6AAB7DCC52}.Debug|Default.Build.0 = Debug
+		{A06D9DF9-6E9C-4E00-ACA6-0A6AAB7DCC52}.Release|Any CPU.ActiveCfg = Release
+		{A06D9DF9-6E9C-4E00-ACA6-0A6AAB7DCC52}.Release|Any CPU.Build.0 = Release
+		{A06D9DF9-6E9C-4E00-ACA6-0A6AAB7DCC52}.Release|Default.ActiveCfg = Release
+		{A06D9DF9-6E9C-4E00-ACA6-0A6AAB7DCC52}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A788C52-4C07-48F3-A1EB-8EFC90E7AB54}
+	EndGlobalSection
+EndGlobal

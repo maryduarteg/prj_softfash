@@ -1,0 +1,378 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="packages\EntityFramework.6.4.4\build\EntityFramework.props" Condition="Exists('packages\EntityFramework.6.4.4\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{57881B8F-986E-4A50-947F-CAB8A94894F9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>soft_code</RootNamespace>
+    <AssemblyName>soft_code</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>packages\EntityFramework.6.4.4\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>packages\EntityFramework.6.4.4\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.7.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite, Version=1.0.115.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.115.0\lib\net46\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.EF6, Version=1.0.115.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>packages\System.Data.SQLite.EF6.1.0.115.0\lib\net46\System.Data.SQLite.EF6.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.Linq, Version=1.0.115.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>packages\System.Data.SQLite.Linq.1.0.115.0\lib\net46\System.Data.SQLite.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Conexao.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form_cidades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_cidades.Designer.cs">
+      <DependentUpon>form_cidades.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form_clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_clientes.Designer.cs">
+      <DependentUpon>form_clientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form_estoque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_estoque.Designer.cs">
+      <DependentUpon>form_estoque.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form_fornecedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_fornecedores.Designer.cs">
+      <DependentUpon>form_fornecedores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_funcionarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_funcionarios.Designer.cs">
+      <DependentUpon>Form_funcionarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form_produtos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_produtos.Designer.cs">
+      <DependentUpon>form_produtos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form_promissorias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_promissorias.Designer.cs">
+      <DependentUpon>form_promissorias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form_usuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_usuarios.Designer.cs">
+      <DependentUpon>form_usuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form_vendas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_vendas.Designer.cs">
+      <DependentUpon>form_vendas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="f_devolverprod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="f_devolverprod.Designer.cs">
+      <DependentUpon>f_devolverprod.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_cidades.resx">
+      <DependentUpon>form_cidades.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_clientes.resx">
+      <DependentUpon>form_clientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_estoque.resx">
+      <DependentUpon>form_estoque.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_fornecedores.resx">
+      <DependentUpon>form_fornecedores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_funcionarios.resx">
+      <DependentUpon>Form_funcionarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_produtos.resx">
+      <DependentUpon>form_produtos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_promissorias.resx">
+      <DependentUpon>form_promissorias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_usuarios.resx">
+      <DependentUpon>form_usuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_vendas.resx">
+      <DependentUpon>form_vendas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="f_devolverprod.resx">
+      <DependentUpon>f_devolverprod.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\restaurar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimizar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimizar1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\teste1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logoofc2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cidades.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\comprasevendas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\promissorias.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clientes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\produto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fornecedores.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usuarios_funcionários.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usuarios_funcionários1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logoofc3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\highquality.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close51.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\restaurar2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\restaurar21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\restaurar3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimizar2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimizar4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cidades1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vendas_compras.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\promissorias1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clientes1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\produtos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\estoque.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fornecedores1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\funcionarios_usuarios.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\funcionarios_usuarios1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\funcionarios_usuarios2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\softlogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fechar44.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimizar44.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\duplicar44.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maximizar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="loogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="softlogotech.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="softlogotech3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fechar441.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\duplicar441.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimizar441.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maximizar1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\square.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Este projeto faz referência a pacotes do NuGet que não estão presentes neste computador. Use a Restauração de Pacotes do NuGet para baixá-los.  Para obter mais informações, consulte http://go.microsoft.com/fwlink/?LinkID=322105. O arquivo ausente é {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('packages\EntityFramework.6.4.4\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', 'packages\EntityFramework.6.4.4\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('packages\EntityFramework.6.4.4\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', 'packages\EntityFramework.6.4.4\build\EntityFramework.targets'))" />
+    <Error Condition="!Exists('packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.115.0\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', 'packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.115.0\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets'))" />
+  </Target>
+  <Import Project="packages\EntityFramework.6.4.4\build\EntityFramework.targets" Condition="Exists('packages\EntityFramework.6.4.4\build\EntityFramework.targets')" />
+  <Import Project="packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.115.0\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets" Condition="Exists('packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.115.0\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets')" />
+</Project>
